@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="1" total="2" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-07-06T15:11:08 IST" name="Default suite" finished-at="2025-07-06T15:11:27 IST" duration-ms="19212">
+    <groups>
+    </groups>
+    <test started-at="2025-07-06T15:11:08 IST" name="Default test" finished-at="2025-07-06T15:11:27 IST" duration-ms="19212">
+      <class name="test_cases.LoginPage_Test">
+        <test-method is-config="true" signature="setup()[pri:0, instance:test_cases.LoginPage_Test@1165b38]" started-at="2025-07-06T15:11:08 IST" name="setup" finished-at="2025-07-06T15:11:25 IST" duration-ms="17576" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="verifyWebUrl_Test()[pri:0, instance:test_cases.LoginPage_Test@1165b38]" started-at="2025-07-06T15:11:25 IST" name="verifyWebUrl_Test" finished-at="2025-07-06T15:11:25 IST" duration-ms="35" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyWebUrl_Test -->
+        <test-method is-config="true" signature="closeBrowser()[pri:0, instance:test_cases.LoginPage_Test@1165b38]" started-at="2025-07-06T15:11:25 IST" name="closeBrowser" finished-at="2025-07-06T15:11:27 IST" duration-ms="1524" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+      </class> <!-- test_cases.LoginPage_Test -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
